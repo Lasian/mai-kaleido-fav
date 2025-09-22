@@ -1,3 +1,10 @@
+function uncheckAll() {
+    document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+        checkbox.checked = false;
+    });
+}
+uncheckAll();
+
 const blueDoorSongs = [
   'STEREOSCAPE',
   'Crazy Circle',
