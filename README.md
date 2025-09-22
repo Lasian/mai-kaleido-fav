@@ -18,7 +18,7 @@
 
 
 1. https://maimaidx-eng.com/maimai-mobile/home/userOption/favorite/updateMusic 접속
-2. 각 문마다 해당되는 스크립트를 주소창에 복사.
+2. 각 문마다 해당되는 스크립트를 주소창에 붙여넣기
 
 ##
 
