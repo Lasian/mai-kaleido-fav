@@ -3,7 +3,7 @@ const whiteDoorSongs = [
   'ほしぞらスペクタクル',
   'U&iVERSE -銀河鸞翔-',
   'ツムギボシ',
-  'ここからはじまるプロローグ。(Kanon Remix)',
+  'ここからはじまるプロローグ。 (Kanon Remix)',
   'Latent Kingdom'
 ];
 
