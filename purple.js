@@ -1,3 +1,10 @@
+function uncheckAll() {
+    document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+        checkbox.checked = false;
+    });
+}
+uncheckAll();
+
 const purpleDoorSongs = [
   '言ノ葉カルマ',
   '悪戯',
