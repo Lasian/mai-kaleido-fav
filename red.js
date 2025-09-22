@@ -6,7 +6,7 @@ function uncheckAll() {
 uncheckAll();
 
 const redDoorSongs = [
-  'KONNANじゃないっ!',
+  'KONNANじゃないっ！',
   'ドラゴンエネルギー',
   'Garden Of The Dragon',
   'DRAGONLADY',
