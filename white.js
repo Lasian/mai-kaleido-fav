@@ -1,3 +1,10 @@
+function uncheckAll() {
+    document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+        checkbox.checked = false;
+    });
+}
+uncheckAll();
+
 const whiteDoorSongs = [
   '封焔の135秒',
   'ほしぞらスペクタクル',
