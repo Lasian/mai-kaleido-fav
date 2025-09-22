@@ -1,3 +1,10 @@
+function uncheckAll() {
+    document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+        checkbox.checked = false;
+    });
+}
+uncheckAll();
+
 const blackDoorSongs = [
   'Blows Up Everything',
   '≠彡"/了→',
