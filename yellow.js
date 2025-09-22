@@ -6,8 +6,6 @@ function uncheckAll() {
 uncheckAll();
 
 const yellowDoorSongs = [
-  'でらっくmaimai♪てんてこまい!',
-  '絡めトリック利己ライザー',
   'ぼくたちいつでも　しゅわっしゅわ！',
   'Paradisoda',
   'とびだせ！TO THE COSMIC!!',
