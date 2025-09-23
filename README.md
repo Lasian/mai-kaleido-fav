@@ -47,7 +47,3 @@ javascript:fetch('https://raw.githubusercontent.com/Lasian/mai-kaleido-fav/refs/
 ```javascript
 javascript:fetch('https://raw.githubusercontent.com/Lasian/mai-kaleido-fav/refs/heads/main/red.js').then(response=>response.text()).then(text=>eval(text));
 ```
-
-
-해당 스크립트는 PC에서 적용이 확인 되었으며, 모바일 환경은 아직 테스트를 시행하지 않았습니다.
-이 점 참고해주시길 바랍니다.
